@@ -1,6 +1,6 @@
 ## 👋 Introduction
 Hi there, My name is **Zohan Zafar**. I am a **Undergraduate Software Engineer** at **Sir Syed University of Engineering and Technology, Karachi**. <br><br>
-I thrive in the chaotic realm of software development, where every bug squashed is a victory and every line of code is a brushstroke on the canvas of innovation. With a passion for clean, efficient code and a knack for turning complex problems into elegant solutions, I'm here to push the boundaries of what's possible. 
+I thrive in the chaotic realm of **Software Development**, where every bug squashed is a victory and every line of code is a brushstroke on the canvas of innovation. With a passion for clean, efficient code and a knack for turning complex problems into elegant solutions, I'm here to push the boundaries of what's possible. 
 
 ## <br>💼 Skills:
 
