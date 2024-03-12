@@ -9,11 +9,6 @@ I thrive in the chaotic realm of **Software Development**, where every bug squas
 ## <br>🛠️ Tools:
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Visual Studio](https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)![NetBeans](https://img.shields.io/badge/NetBeans-%231DA1F2.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-%2300748C.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## <br>🚀 Current Focus
-
-- 🔭 I’m currently working on **My Final Year Project (V-Drive)**. 
-- 🌱 I’m currently learning **C#** and **Unity**. 
-
 ## <br>🌐 Connect with Me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zohanzafar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zohanzafar/)  
 
