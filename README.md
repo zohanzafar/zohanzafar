@@ -1,6 +1,5 @@
 ## 👋 Introduction
-Hi there, My name is **Zohan Zafar**. I am an **Undergraduate Software Engineer** at **Sir Syed University of Engineering and Technology, Karachi**. <br><br>
-I thrive in the chaotic realm of **Software Development**, where every bug squashed is a victory and every line of code is a brushstroke on the canvas of innovation. With a passion for clean, efficient code and a knack for turning complex problems into elegant solutions, I'm here to push the boundaries of what's possible. 
+Hey there, I'm **Zohan Zafar**, a recent graduate in **Software Engineering** from **Sir Syed University of Engineering and Technology, Karachi**. I'm passionate about crafting clean and efficient code while solving complex problems with elegant solutions.
 
 ## <br>💼 Skills:
 
@@ -10,12 +9,12 @@ I thrive in the chaotic realm of **Software Development**, where every bug squas
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Visual Studio](https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)![NetBeans](https://img.shields.io/badge/NetBeans-%231DA1F2.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-%2300748C.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## <br>🎯 Projects:
-1. V-Drive - Virtual Driving System
-2. YouTube Video Downloader
-3. Pizza Ordering System
-4. Pharmacy Management System
-5. Number Guessing Game
-6. Forza Race
+1. **V-Drive - Virtual Driving System**
+2. **YouTube Video Downloader**
+3. **Pizza Ordering System**
+4. **Pharmacy Management System**
+5. **Number Guessing Game**
+6. **Forza Race**
 
 ## <br>🌐 Connect with Me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zohanzafar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zohanzafar/)  
