@@ -69,7 +69,7 @@ PostgreSQL, MongoDB, Redis, Docker, AWS
 
 ---
 
-## Most Languages Used
+## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zohanzafar&layout=compact&hide_border=true&langs_count=6)
 
