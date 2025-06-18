@@ -32,6 +32,7 @@ I specialize in end-to-end application development from secure backends to AI-po
 ### 📘 **AI Research Agent**
 A Django REST API to generate structured research reports using AI.  
 **Tech:** Django, OpenAI API, Wikipedia API, LangChain  
+
 📎 Features:
 - Topic-based report generation
 - API access for CRUD operations
@@ -42,24 +43,17 @@ A Django REST API to generate structured research reports using AI.
 ### 💬 **AI Chatbot API**
 A secure Django backend for a user-authenticated chatbot using GPT models.  
 **Tech:** Django REST Framework, JWT Auth, OpenAI API  
+
 📎 Features:
 - User login, registration, and chat history
 - Token-based access for GPT interactions
 
 ---
 
-### 🧠 **RAG Chatbot**
-RAG-powered chatbot using LangChain and Pinecone for semantic search.  
-**Tech:** Flask, LangChain, Pinecone, GPT-4  
-📎 Features:
-- Vector-based context retrieval
-- Real-time answers from document data
-
----
-
 ### 🚗 **V-Drive**
 A virtual driving trainer that helps users practice in a simulated environment.  
 **Tech:** Python, Game Engine, REST API  
+
 📎 Features:
 - Driving simulation for training
 - Performance metrics and feedback
