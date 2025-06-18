@@ -1,83 +1,77 @@
-# 👋 Hi, I’m Zohan Zafar
+# Zohan Zafar
 
-**AI Software Engineer | Python Developer | LLM Integrator**  
-Building intelligent systems with strong backends, AI pipelines, and modern UIs.
-
----
-
-## 🚀 What I Do
-
-I specialize in end-to-end application development from secure backends to AI-powered systems and smooth user interfaces.
-
-### 🧠 Generative AI & LLMs
-- Build intelligent agents using **LangChain, LangGraph**
-- Work with **OpenAI, Google Gemini, Meta Llama, Claude**
-- Develop **RAG pipelines** using **Pinecone, FAISS, ChromaDB**
-- Prompt engineering, context-aware AI apps, and chatbot systems
-
-### 🛠️ Backend Development
-- Build REST APIs with **Django REST Framework**, **FastAPI**, **Flask**
-- Implement **OAuth2, JWT**, and **Stripe payments**
-- Manage data with **PostgreSQL, MongoDB, Redis**
-- Dockerize apps and deploy on **AWS (EC2, S3, Lambda)**
-
-### 🌐 Frontend Interfaces
-- Build clean, responsive UIs with **React**, **Next.js**, **Tailwind CSS**
-- Connect AI systems to user interfaces for real-time interaction
+**AI Software Engineer | Backend Developer | LLM Systems Builder**  
+I design intelligent software — from fast APIs and vector search to user-friendly AI applications.
 
 ---
 
-## 🔍 Featured Projects
+## What I Do
 
-### 📘 AI Research Agent
-A Django REST API to generate structured research reports using AI.  
-**Tech:** Django, OpenAI API, Wikipedia, LangChain  
+### AI & Language Models
+- Build AI agents using **LangChain**, **LangGraph**
+- Integrate with **OpenAI**, **Gemini**, **Claude**, **LLaMA**
+- Design **RAG pipelines** with **FAISS**, **ChromaDB**, **Pinecone**
+- Focus on context-aware applications, prompt tuning, and conversational interfaces
 
-📎 **Features:**
-- Topic-based research report generation  
-- API access for CRUD operations  
-- Agent pulls data from Wikipedia
+### Backend Systems
+- Develop REST APIs using **Django REST Framework**, **FastAPI**, **Flask**
+- Handle **authentication (OAuth2, JWT)** and **payment systems (Stripe)**
+- Work with **PostgreSQL**, **MongoDB**, and **Redis**
+- Containerize and deploy to **AWS** (EC2, S3, Lambda) with **Docker**
 
----
-
-### 💬 AI Chatbot API
-A secure Django backend for a user-authenticated chatbot using GPT models.  
-**Tech:** Django REST Framework, JWT Auth, OpenAI API  
-
-📎 **Features:**
-- User login, registration, and chat history  
-- Token-based access for GPT interactions  
+### Frontend Integration
+- Build clean, responsive interfaces using **React**, **Next.js**, and **Tailwind CSS**
+- Connect AI systems to frontends for real-time interaction
 
 ---
 
-### 📄 PDF RAG Chatbot Backend API
-A Django REST API backend for a document-based chatbot using Retrieval-Augmented Generation (RAG).  
-**Tech:** Django, DRF, FAISS, SentenceTransformers, OpenAI, PostgreSQL  
+## Selected Projects
 
-📎 **Features:**
-- Token-based user authentication using JWT  
-- Upload and manage PDF documents  
-- Semantic document search using FAISS and SentenceTransformers  
-- RAG-based chatbot responses using LLMs  
-- Chat session tracking and message history  
+### AI Research Agent  
+Generate research reports using AI and external sources like Wikipedia  
+**Stack:** Django, OpenAI API, LangChain  
+- Input a topic → Get structured, multi-section research  
+- Data pulled from Wikipedia and processed with GPT  
+- RESTful API for full CRUD operations
 
----
+### AI Chatbot API  
+A secure backend for a user-authenticated chatbot powered by LLMs  
+**Stack:** Django REST Framework, OpenAI, JWT  
+- Auth system with login, signup, and chat history  
+- Token-based access for model queries  
+- Built for extensibility and role-based features
 
-## 🧰 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?logo=LangChain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+### PDF RAG Chatbot Backend  
+Backend for a chatbot that answers questions from uploaded PDF documents  
+**Stack:** Django, FAISS, SentenceTransformers, OpenAI  
+- Upload documents and retrieve answers using RAG  
+- JWT authentication and per-user chat sessions  
+- Semantic search with vector indexing
 
 ---
 
-### ⚡ Quick Tip:
-If you're building something with LLMs, Django APIs, or need help with vector search, I’d love to collaborate!
+## Tools & Technologies
 
+**Languages & Frameworks:**  
+Python, Django, FastAPI, Flask, React, Next.js  
+
+**AI & LLM Tools:**  
+OpenAI API, LangChain, LangGraph, FAISS, ChromaDB, SentenceTransformers  
+
+**Databases & DevOps:**  
+PostgreSQL, MongoDB, Redis, Docker, AWS  
+
+---
+
+## GitHub Stats
+
+![Zohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zohanzafar&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zohanzafar&layout=compact&hide_border=true&langs_count=6)
+
+---
+
+## Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zohanzafar&bg_color=ffffff&color=000000&line=6a6a6a&point=000000&hide_border=true)
+
+---
