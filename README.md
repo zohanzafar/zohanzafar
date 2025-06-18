@@ -1,7 +1,7 @@
 # Zohan Zafar
 
 **AI Software Engineer | Backend Developer | LLM Systems Builder**  
-I design intelligent software — from fast APIs and vector search to user-friendly AI applications.
+Building intelligent systems with strong backends, AI pipelines, and modern UIs.
 
 ---
 
@@ -66,6 +66,11 @@ PostgreSQL, MongoDB, Redis, Docker, AWS
 ## GitHub Stats
 
 ![Zohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zohanzafar&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+---
+
+## Most Languages Used
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zohanzafar&layout=compact&hide_border=true&langs_count=6)
 
 ---
