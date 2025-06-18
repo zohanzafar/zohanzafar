@@ -7,7 +7,7 @@ Building intelligent systems with strong backends, AI pipelines, and modern UIs.
 
 ## 🚀 What I Do
 
-I specialize in end-to-end application development — from secure backends to AI-powered systems and smooth user interfaces.
+I specialize in end-to-end application development from secure backends to AI-powered systems and smooth user interfaces.
 
 ### 🧠 Generative AI & LLMs
 - Build intelligent agents using **LangChain, LangGraph**
