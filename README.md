@@ -50,9 +50,9 @@ A secure Django backend for a user-authenticated chatbot using GPT models.
 
 ---
 
-### 🚗 **V-Drive**
+### 🚗 **V-Drive - Final Year Project**
 A virtual driving trainer that helps users practice in a simulated environment.  
-**Tech:** Python, Game Engine, REST API  
+**Tech:** C#, Game Engine (UNITY), SQL 
 
 📎 Features:
 - Driving simulation for training
