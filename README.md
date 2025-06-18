@@ -29,34 +29,37 @@ I specialize in end-to-end application development from secure backends to AI-po
 
 ## 🔍 Featured Projects
 
-### 📘 **AI Research Agent**
+### 📘 AI Research Agent
 A Django REST API to generate structured research reports using AI.  
 **Tech:** Django, OpenAI API, Wikipedia API, LangChain  
 
-📎 Features:
-- Topic-based report generation
-- API access for CRUD operations
-- Agent pulls data from multiple sources
+📎 **Features:**
+- Topic-based report generation  
+- API access for CRUD operations  
+- Agent pulls data from multiple sources  
 
 ---
 
-### 💬 **AI Chatbot API**
+### 💬 AI Chatbot API
 A secure Django backend for a user-authenticated chatbot using GPT models.  
 **Tech:** Django REST Framework, JWT Auth, OpenAI API  
 
-📎 Features:
-- User login, registration, and chat history
-- Token-based access for GPT interactions
+📎 **Features:**
+- User login, registration, and chat history  
+- Token-based access for GPT interactions  
 
 ---
 
-### 🚗 **V-Drive - Final Year Project**
-A virtual driving trainer that helps users practice in a simulated environment.  
-**Tech:** C#, Game Engine (UNITY), SQL 
+### 📄 PDF RAG Chatbot Backend API
+A Django REST API backend for a document-based chatbot using Retrieval-Augmented Generation (RAG).  
+**Tech:** Django, DRF, FAISS, SentenceTransformers, OpenAI, PostgreSQL  
 
-📎 Features:
-- Driving simulation for training
-- Performance metrics and feedback
+📎 **Features:**
+- Token-based user authentication using JWT  
+- Upload and manage PDF documents  
+- Semantic document search using FAISS and SentenceTransformers  
+- RAG-based chatbot responses using LLMs  
+- Chat session tracking and message history  
 
 ---
 
