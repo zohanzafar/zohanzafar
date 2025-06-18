@@ -1,22 +1,86 @@
-## 👋 Introduction
-Hey there, I'm **Zohan Zafar**, a recent graduate in **Software Engineering** from **Sir Syed University of Engineering and Technology, Karachi**. I'm passionate about crafting clean and efficient code while solving complex problems with elegant solutions.
+# 👋 Hi, I’m Zohan Zafar
 
-## <br>💼 Skills:
+**AI Software Engineer | Python Developer | LLM Integrator**  
+Building intelligent systems with strong backends, AI pipelines, and modern UIs.
 
-![C#](https://img.shields.io/badge/C%23-%2343853D.svg?style=for-the-badge&logo=c-sharp&logoColor=white)![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
-## <br>🛠️ Tools:
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Visual Studio](https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)![NetBeans](https://img.shields.io/badge/NetBeans-%231DA1F2.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-%2300748C.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 🚀 What I Do
 
-## <br>🎯 Projects:
-1. **V-Drive - Virtual Driving System**
-2. **YouTube Video Downloader**
-3. **Pizza Ordering System**
-4. **Pharmacy Management System**
-5. **Number Guessing Game**
-6. **Forza Race**
+I specialize in end-to-end application development — from secure backends to AI-powered systems and smooth user interfaces.
 
-## <br>🌐 Connect with Me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zohanzafar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zohanzafar/)  
+### 🧠 Generative AI & LLMs
+- Build intelligent agents using **LangChain, LangGraph**
+- Work with **OpenAI, Google Gemini, Meta Llama, Claude**
+- Develop **RAG pipelines** using **Pinecone, FAISS, ChromaDB**
+- Prompt engineering, context-aware AI apps, and chatbot systems
 
+### 🛠️ Backend Development
+- Build REST APIs with **Django REST Framework**, **FastAPI**, **Flask**
+- Implement **OAuth2, JWT**, and **Stripe payments**
+- Manage data with **PostgreSQL, MongoDB, Redis**
+- Dockerize apps and deploy on **AWS (EC2, S3, Lambda)**
+
+### 🌐 Frontend Interfaces
+- Build clean, responsive UIs with **React**, **Next.js**, **Tailwind CSS**
+- Connect AI systems to user interfaces for real-time interaction
+
+---
+
+## 🔍 Featured Projects
+
+### 📘 **AI Research Agent**
+A Django REST API to generate structured research reports using AI.  
+**Tech:** Django, OpenAI API, Wikipedia API, LangChain  
+📎 Features:
+- Topic-based report generation
+- API access for CRUD operations
+- Agent pulls data from multiple sources
+
+---
+
+### 💬 **AI Chatbot API**
+A secure Django backend for a user-authenticated chatbot using GPT models.  
+**Tech:** Django REST Framework, JWT Auth, OpenAI API  
+📎 Features:
+- User login, registration, and chat history
+- Token-based access for GPT interactions
+
+---
+
+### 🧠 **RAG Chatbot**
+RAG-powered chatbot using LangChain and Pinecone for semantic search.  
+**Tech:** Flask, LangChain, Pinecone, GPT-4  
+📎 Features:
+- Vector-based context retrieval
+- Real-time answers from document data
+
+---
+
+### 🚗 **V-Drive**
+A virtual driving trainer that helps users practice in a simulated environment.  
+**Tech:** Python, Game Engine, REST API  
+📎 Features:
+- Driving simulation for training
+- Performance metrics and feedback
+
+---
+
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?logo=LangChain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+
+---
+
+### ⚡ Quick Tip:
+If you're building something with LLMs, Django APIs, or need help with vector search, I’d love to collaborate!
 
