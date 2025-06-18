@@ -31,12 +31,12 @@ I specialize in end-to-end application development from secure backends to AI-po
 
 ### 📘 AI Research Agent
 A Django REST API to generate structured research reports using AI.  
-**Tech:** Django, OpenAI API, Wikipedia API, LangChain  
+**Tech:** Django, OpenAI API, Wikipedia, LangChain  
 
 📎 **Features:**
-- Topic-based report generation  
+- Topic-based research report generation  
 - API access for CRUD operations  
-- Agent pulls data from multiple sources  
+- Agent pulls data from Wikipedia
 
 ---
 
