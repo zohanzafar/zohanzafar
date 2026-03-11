@@ -1,82 +1,82 @@
-# Zohan Zafar
-
-**AI Software Engineer | Backend Developer | LLM Systems Builder**  
-Building intelligent systems with strong backends, AI pipelines, and modern UIs.
+<h1 align="center">Hi 👋, I'm Zohan Zafar</h1>
+<h3 align="center">Backend Software Engineer | Java (Spring Boot, Quarkus) | Scalable Microservices & REST APIs</h3>
 
 ---
 
-## What I Do
+## 🖥️ About Me
+I am a **Backend Software Engineer** specializing in **Java-based backend systems**. I build **scalable, maintainable, and high-performance microservices and RESTful APIs** using modern frameworks such as **Spring Boot** and **Quarkus**.  
 
-### AI & Language Models
-- Build AI agents using **LangChain**, **LangGraph**
-- Integrate with **OpenAI**, **Gemini**, **Claude**, **LLaMA**
-- Design **RAG pipelines** with **FAISS**, **ChromaDB**, **Pinecone**
-- Focus on context-aware applications, prompt tuning, and conversational interfaces
+I also have experience with **Python backend frameworks** including Django, FastAPI, and Flask, which has helped me build **API-driven systems across multiple ecosystems**. My experience includes **microservices architecture, authentication systems, database optimization, and DevOps tooling** (Docker, Git, CI/CD, Maven, Gradle, AWS).  
 
-### Backend Systems
-- Develop REST APIs using **Django REST Framework**, **FastAPI**, **Flask**
-- Handle **authentication (OAuth2, JWT)** and **payment systems (Stripe)**
-- Work with **PostgreSQL**, **MongoDB**, and **Redis**
-- Containerize and deploy to **AWS** (EC2, S3, Lambda) with **Docker**
-
-### Frontend Integration
-- Build clean, responsive interfaces using **React**, **Next.js**, and **Tailwind CSS**
-- Connect AI systems to frontends for real-time interaction
+Currently, I am focused on **Java backend development** with Quarkus and Spring Boot, working with **enterprise databases like DB2 and PostgreSQL**.
 
 ---
 
-## Selected Projects
+## 🛠️ Skills
 
-### AI Research Agent  
-Generate research reports using AI and external sources like Wikipedia  
-**Stack:** Django, OpenAI API, LangChain  
-- Input a topic → Get structured, multi-section research  
-- Data pulled from Wikipedia and processed with GPT  
-- RESTful API for full CRUD operations
+<div align="center">
 
-### AI Chatbot API  
-A secure backend for a user-authenticated chatbot powered by LLMs  
-**Stack:** Django REST Framework, OpenAI, JWT  
-- Auth system with login, signup, and chat history  
-- Token-based access for model queries  
-- Built for extensibility and role-based features
+**Languages & Frameworks**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-EE0000?style=for-the-badge&logo=quarkus&logoColor=white)  
+<br>
 
-### PDF RAG Chatbot Backend  
-Backend for a chatbot that answers questions from uploaded PDF documents  
-**Stack:** Django, FAISS, SentenceTransformers, OpenAI  
-- Upload documents and retrieve answers using RAG  
-- JWT authentication and per-user chat sessions  
-- Semantic search with vector indexing
+**Databases**  
+![DB2](https://img.shields.io/badge/DB2-006699?style=for-the-badge&logo=ibm&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+<br>
 
----
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
 
-## Tools & Technologies
-
-**Languages & Frameworks:**  
-Python, Django, FastAPI, Flask, React, Next.js  
-
-**AI & LLM Tools:**  
-OpenAI API, LangChain, LangGraph, FAISS, ChromaDB, SentenceTransformers  
-
-**Databases & DevOps:**  
-PostgreSQL, MongoDB, Redis, Docker, AWS  
+</div>
 
 ---
 
-## GitHub Stats
+## 💼 Experience & Projects
 
-![Zohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zohanzafar&show_icons=true&theme=default&hide_border=true&count_private=true)
+### **Software Design Engineer @ BRB Group**
+*Mar 2026 – Present*  
+- Developing **Java backend systems** using Quarkus and Spring Boot  
+- Designing **microservices architecture** and integrating **enterprise databases** (DB2, PostgreSQL)  
+- Implementing **REST APIs, authentication systems, and high-performance backend services**
+
+### **SWE Intern @ Indenta AI**
+*Previous Role*  
+- Developed backend APIs using Python (Django, FastAPI)  
+- Integrated **databases and external services**, built scalable API-driven systems  
+
+### **JPMorgan Chase – Software Engineering Virtual Experience (Forage)**
+*Mar 2026*  
+- Completed a **5-hour virtual simulation** practicing **Java, Spring Boot, REST APIs, SQL, and Kafka**  
+- Simulated real-world software engineering tasks like integrating Spring apps with H2 databases and external APIs  
+- Earned **certificate of completion** (Addable to resume/LinkedIn)
+
+### **V-Drive – Intelligent Virtual Driving System (Final Year Project)**
+- Developed a Python backend integrating APIs and databases  
+- Built **scalable backend system** for intelligent virtual driving  
 
 ---
 
-## Most Used Languages
+## 📫 Connect With Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zohanzafar&layout=compact&hide_border=true&langs_count=6)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohanzafar/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZohanZafar)  
+
+</div>
 
 ---
 
-## Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zohanzafar&bg_color=ffffff&color=000000&line=6a6a6a&point=000000&hide_border=true)
-
----
+## 📈 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZohanZafar&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZohanZafar&layout=compact&theme=dark&hide_border=true"/>
+</div>
