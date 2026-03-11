@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Zohan Zafar</h1>
-<h3 align="center">Backend Software Engineer | Java (Spring Boot, Quarkus) | Scalable Microservices & REST APIs</h3>
+<h3 align="center">Software Engineer | Java (Spring Boot, Quarkus) & Python (Django & FastAPI) | Scalable Microservices & REST APIs</h3>
 
 ---
 
 ## 🖥️ About Me
 I am a **Backend Software Engineer** specializing in **Java-based backend systems**. I build **scalable, maintainable, and high-performance microservices and RESTful APIs** using modern frameworks such as **Spring Boot** and **Quarkus**.  
 
-I also have experience with **Python backend frameworks** including Django, FastAPI, and Flask, which has helped me build **API-driven systems across multiple ecosystems**. My experience includes **microservices architecture, authentication systems, database optimization, and DevOps tooling** (Docker, Git, CI/CD, Maven, Gradle, AWS).  
+I also have experience with **Python backend frameworks**, including Django, FastAPI, and Flask, which has helped me build **API-driven systems across multiple ecosystems**. My experience includes **microservices architecture, authentication systems, database optimization, and DevOps tooling** (Docker, Git, CI/CD, Maven, Gradle, AWS).  
 
 Currently, I am focused on **Java backend development** with Quarkus and Spring Boot, working with **enterprise databases like DB2 and PostgreSQL**.
 
@@ -69,7 +69,7 @@ Currently, I am focused on **Java backend development** with Quarkus and Spring 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohanzafar/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZohanZafar)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zohanzafar.vercel.app)
 
 </div>
 
