@@ -10,73 +10,71 @@ I also have experience with **Python backend frameworks**, including Django, Fas
 
 Currently, I am focused on **Java backend development** with Quarkus and Spring Boot, working with **enterprise databases like DB2 and PostgreSQL**.
 
+
 ---
 
-## 🛠️ Skills
+## Connect
 
 <div align="center">
-
-**Languages & Frameworks**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-EE0000?style=for-the-badge&logo=quarkus&logoColor=white)  
-<br>
-
-**Databases**  
-![DB2](https://img.shields.io/badge/DB2-006699?style=for-the-badge&logo=ibm&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-<br>
-
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-
+  <a href="https://dev.to/zohanzafar" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Zohan Zafar on Dev.to" />
+  </a>
+  <a href="https://x.com/zohan_zafar" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Zohan Zafar on X Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/zohanzafar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Zohan Zafar on LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/30073869" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Zohan Zafar on Stack Overflow" />
+  </a>
+  <a href="https://kaggle.com/zohanzafar" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Zohan Zafar on Kaggle" />
+  </a>
+  <a href="https://hashnode.com/@zohanzafar" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Zohan Zafar on Hashnode" />
+  </a>
+  <a href="https://medium.com/@zohanzafar" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Zohan Zafar on Medium" />
+  </a>
+  <a href="https://www.youtube.com/c/zohanzafarakazui" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Zohan Zafar on YouTube" />
+  </a>
+  <a href="https://www.hackerrank.com/zohanzafar" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00A652?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Zohan Zafar on HackerRank" />
+  </a>
+  <a href="https://www.leetcode.com/zohanzafar" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Zohan Zafar on LeetCode" />
+  </a>
+  <a href="https://discord.gg/ASADASD" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Zohan Zafar Discord" />
+  </a>
 </div>
 
 ---
 
-## 💼 Experience & Projects
+## Support My Work
 
-### **Software Design Engineer @ BRB Group**
-*Mar 2026 – Present*  
-- Developing **Java backend systems** using Quarkus and Spring Boot  
-- Designing **microservices architecture** and integrating **enterprise databases** (DB2, PostgreSQL)  
-- Implementing **REST APIs, authentication systems, and high-performance backend services**
-
-### **SWE Intern @ Indenta AI**
-*Previous Role*  
-- Developed backend APIs using Python (Django, FastAPI)  
-- Integrated **databases and external services**, built scalable API-driven systems  
-
-### **JPMorgan Chase – Software Engineering Virtual Experience (Forage)**
-*Mar 2026*  
-- Completed a **5-hour virtual simulation** practicing **Java, Spring Boot, REST APIs, SQL, and Kafka**  
-- Simulated real-world software engineering tasks like integrating Spring apps with H2 databases and external APIs  
-- Earned **certificate of completion** (Addable to resume/LinkedIn)
-
-### **V-Drive – Intelligent Virtual Driving System (Final Year Project)**
-- Developed a Python backend integrating APIs and databases  
-- Built **scalable backend system** for intelligent virtual driving  
-
----
-
-## 📫 Connect With Me
+If any of these projects have helped you, I'd appreciate the support. It keeps the lights on and the repos active.
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohanzafar/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zohanzafar.vercel.app)
-
+  <a href="https://www.buymeacoffee.com/zohanzafar" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Zohan Zafar a coffee — support development" />
+  </a>
+  <a href="https://ko-fi.com/zohanzafar" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support Zohan Zafar on Ko-fi" />
+  </a>
+  <a href="https://patreon.com/zohanzafar" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Support Zohan Zafar on Patreon" />
+  </a>
 </div>
 
 ---
 
-## 📈 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZohanZafar&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZohanZafar&layout=compact&theme=dark&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/zohanzafar/zohanzafar/output/github-contribution-grid-snake-dark.svg" alt="Zohan Zafar GitHub contribution snake animation" />
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=120&section=footer)
+
+---
