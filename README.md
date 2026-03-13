@@ -1,15 +1,47 @@
-<h1 align="center">Hi 👋, I'm Zohan Zafar</h1>
-<h3 align="center">Software Engineer | Java (Spring Boot, Quarkus) & Python (Django & FastAPI) | Scalable Microservices & REST APIs</h3>
+<!-- 
+  Zohan Zafar — Software Engineer
+  GitHub: https://github.com/zohanzafar
+  Website: https://zohanzafar.vercel.app/
+  LinkedIn: https://linkedin.com/in/zohanzafar
+  Location: Karachi, Pakistan
+  Focus: Backend development with Java and Python, REST APIs, microservices, databases, containerization, and AI-assisted tools
+-->
+
+<div align="center">
+
+  <img alt="Zohan Zafar, Software Engineer based in Karachi, Pakistan" width="280" src="https://raw.githubusercontent.com/zohanzafar/zohanzafar/main/assets/profile-pic.png" />
+
+  <h1><a href="https://github.com/zohanzafar">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=100000&color=0E75B6&center=true&vCenter=true&repeat=false&width=420&lines=Zohan+Zafar" alt="Zohan Zafar" />
+  </a></h1>
+
+  <br /><br />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Java+%7C+Python+%7C+JavaScript+%7C+SQL;REST+APIs+and+Microservices;PostgreSQL%2C+MySQL%2C+MongoDB%2C+Redis;Docker%2C+Kubernetes%2C+AWS;Generative+AI+tools+with+LangChain" alt="Zohan Zafar — Software Engineer, Karachi" />
+  
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zohanzafar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/zohanzafar?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/zohanzafar?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Total GitHub stars" />
+</p>
 
 ---
 
-## 🖥️ About Me
-I am a **Backend Software Engineer** specializing in **Java-based backend systems**. I build **scalable, maintainable, and high-performance microservices and RESTful APIs** using modern frameworks such as **Spring Boot** and **Quarkus**.  
+## About Me
 
-I also have experience with **Python backend frameworks**, including Django, FastAPI, and Flask, which has helped me build **API-driven systems across multiple ecosystems**. My experience includes **microservices architecture, authentication systems, database optimization, and DevOps tooling** (Docker, Git, CI/CD, Maven, Gradle, AWS).  
+I am a software engineer based in Karachi, Pakistan. My work centers on building reliable backend systems using Java with Spring Boot and Quarkus, and Python with Django and FastAPI.
 
-Currently, I am focused on **Java backend development** with Quarkus and Spring Boot, working with **enterprise databases like DB2 and PostgreSQL**.
+I design and implement REST APIs and microservices that handle authentication, data processing, and integration with databases such as PostgreSQL, MySQL, MongoDB, and Redis. I also use message queues like Kafka when needed for asynchronous tasks.
 
+In DevOps, I work with Docker for containerization, Kubernetes for orchestration, AWS for cloud hosting, Nginx for serving, and Git for version control. These tools help deliver consistent, scalable applications.
+
+Recently, I have explored generative AI by building tools with LangChain and n8n to automate workflows and create intelligent features.
+
+My repositories include projects on task management APIs, AI research agents, document-based chatbots with retrieval-augmented generation (RAG), and authenticated chat systems. These demonstrate practical solutions for common backend and AI use cases.
+
+I welcome messages about collaboration, project discussions, or opportunities in backend development, API design, or AI integration.
 
 ---
 
