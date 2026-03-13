@@ -9,11 +9,18 @@
 
 <div align="center">
 
-  <img alt="Zohan Zafar, Software Engineer based in Karachi, Pakistan" width="280" src="https://raw.githubusercontent.com/zohanzafar/zohanzafar/main/assets/profile-pic.png" />
+  <img 
+    src="https://raw.githubusercontent.com/zohanzafar/zohanzafar/main/assets/profile-pic.png"
+    width="220"
+    style="border-radius:50%;"
+    alt="Zohan Zafar"
+  />
 
-  <h1><a href="https://github.com/zohanzafar">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=100000&color=0E75B6&center=true&vCenter=true&repeat=false&width=420&lines=Zohan+Zafar" alt="Zohan Zafar" />
-  </a></h1>
+  <h1>
+    <a href="https://github.com/zohanzafar">
+     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=100000&color=0E75B6&center=true&vCenter=true&repeat=false&width=420&lines=Zohan+Zafar"/>
+    </a>
+  </h1>
 
   <br /><br />
 
@@ -141,26 +148,14 @@ I welcome messages about collaboration, project discussions, or opportunities in
 
 ---
 
-## Support My Work
-
-If any of these projects have helped you, I'd appreciate the support. It keeps the lights on and the repos active.
+## GitHub Contributions
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/zohanzafar" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Zohan Zafar a coffee — support development" />
-  </a>
-  <a href="https://ko-fi.com/zohanzafar" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support Zohan Zafar on Ko-fi" />
-  </a>
-  <a href="https://patreon.com/zohanzafar" target="_blank">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Support Zohan Zafar on Patreon" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zohanzafar/zohanzafar/output/github-contribution-grid-snake-dark.svg" alt="Zohan Zafar GitHub contribution snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zohanzafar/zohanzafar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zohanzafar/zohanzafar/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/zohanzafar/zohanzafar/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=120&section=footer)
