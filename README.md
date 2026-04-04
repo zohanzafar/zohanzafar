@@ -4,13 +4,13 @@
   Website: https://zohanzafar.vercel.app/
   LinkedIn: https://linkedin.com/in/zohanzafar
   Location: Karachi, Pakistan
-  Focus: Backend development with Java (Spring Boot and Quarkus)and Python (Django REST Framework and FastAPI), REST APIs, microservices, databases, containerization, and AI-assisted tools
+  Focus: Backend development with Java (Spring Boot and Quarkus)and Python (Django REST Framework and FastAPI), JavaScript, SQL, REST APIs, microservices, databases, containerization, and AI-assisted tools
 -->
 
 <div align="center">
 
   <img 
-    src="https://raw.githubusercontent.com/zohanzafar/zohanzafar/main/assets/profile-pic.png"
+    src="https://raw.githubusercontent.com/zohanzafar/zohanzafar/main/assets/zohan-zafar-profile-pic.png"
     width="220"
     height="220"
     style="border-radius:50%; object-fit:cover;"
