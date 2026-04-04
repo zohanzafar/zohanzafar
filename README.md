@@ -115,7 +115,7 @@ I welcome messages about collaboration, project discussions, or opportunities in
   <a href="https://dev.to/zohanzafar" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Zohan Zafar on Dev.to" />
   </a>
-  <a href="https://x.com/zohan_zafar" target="_blank">
+  <a href="https://x.com/zohanzafar25" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Zohan Zafar on X Twitter" />
   </a>
   <a href="https://linkedin.com/in/zohanzafar" target="_blank">
@@ -133,7 +133,7 @@ I welcome messages about collaboration, project discussions, or opportunities in
   <a href="https://medium.com/@zohanzafar" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Zohan Zafar on Medium" />
   </a>
-  <a href="https://www.youtube.com/c/zohanzafarakazui" target="_blank">
+  <a href="https://www.youtube.com/@zohanzafarakazui" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Zohan Zafar on YouTube" />
   </a>
   <a href="https://www.hackerrank.com/zohanzafar" target="_blank">
@@ -142,7 +142,7 @@ I welcome messages about collaboration, project discussions, or opportunities in
   <a href="https://www.leetcode.com/zohanzafar" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Zohan Zafar on LeetCode" />
   </a>
-  <a href="https://discord.gg/ASADASD" target="_blank">
+  <a href="https://discord.gg/zohanzafar" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Zohan Zafar Discord" />
   </a>
 </div>
